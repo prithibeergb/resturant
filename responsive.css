@@ -1,0 +1,382 @@
+
+@media screen and (min-width:1600px){
+  .our-chefe-div {
+    margin-top: 200px;
+}
+} 
+
+
+
+@media only screen and (max-width: 768px){
+    .navbar-nav{
+        width: 100% !important;
+        justify-content: center;
+        text-align: center;
+    }
+    .right-menu{
+        width: 100% !important;
+        justify-content: center !important;
+    }
+    .chiken-break{
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .banner-item h1{
+        font-size: 3em;
+        text-transform: uppercase;
+        color: white;
+        font-weight: 800;
+        line-height: 1;
+        margin: 25px 0;
+      }
+      #banner-pizza{
+        margin-top: 0;
+      }
+      #banner-burger{
+        margin-top: 0;
+      }
+      #banner-chiken{
+        margin-top: 0;
+      }
+   .banner-item{
+    padding-top: 30px;
+   }
+   
+      #ab-right, #ab-left{
+        display: none;
+    }
+    .about-us {
+        padding: 3em 0;
+        margin: 2em 0;
+        background-color: white;
+        position: relative;
+    }
+    #left-pizza,  #right-pizza{
+        display: none
+    }
+    #vegetable-right{
+        display: none;
+    }
+
+
+    .dish-style1{
+      width: 45%;
+    }
+    .dish-relative2 {
+      right: -46px;
+    }
+      .dish-relative1 {
+        left: -44px;
+}
+
+.cta-1{
+  display: none;
+}
+
+
+.foods-menu{
+  padding: 1em 3em;
+  background-color: white;
+}
+
+
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+  width: 30%;
+}
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+  border-right: none !important;
+}
+
+.spacial-offer-bg{
+  padding: 20px 0;
+   align-items: center;
+  
+  }
+
+  .spl-countdown {
+    background: rgba(255, 255, 255, 0.216);
+    }
+  .countdown div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 5rem;
+    font-size: 25px;
+  }
+  .countdown div::after{
+    font-size: 12px;
+  }
+
+.spl-img img {
+  width: 45%;
+}
+.spl-countdown{
+  margin-top: 0;
+}
+.spacial-banner-timer,
+.spacial-banner-timer2{
+  display: none;
+ }
+
+ .chefe-info{
+  margin: 80px 0;
+ }
+ .chefe1 {
+  left: 72px;
+ }
+ .icon {
+  left: 30%;
+}
+.testimonial-img {
+  margin-top: -5em;
+
+}
+
+.latest-food-info ul li p {
+  font-size: 11px;
+}
+.latest-food-info h4 {
+  font-size: 1.2em;
+}
+
+.testimonial {
+  background-color: #171717;
+  height: 90vh;
+  width: 100%;
+  margin: 3em 0;
+}
+
+
+.our-link,
+.our-menu,
+.contact-us{
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+
+}
+
+
+
+
+
+
+.footer-gallery {
+  padding-top: 0;
+}
+
+
+.foot-contact h5{
+  font-size: 9px;
+}
+.foot-contact p{
+  font-size: 12px;
+}
+
+.foot-contact ul li i {
+  font-size: 8px;
+  padding: 7px;
+  border-radius: 30px;
+}
+
+.back-to-top {
+  display: none !important;
+}
+
+}
+
+
+
+@media only screen and (max-width: 550px){
+    .navbar-nav{
+        width: 100% !important;
+        justify-content: center;
+        text-align: center;
+    }
+    .right-menu{
+        width: 100% !important;
+        justify-content: center  !important;
+    }
+
+    .banner-item h1{
+        font-size: 3em;
+        text-transform: uppercase;
+        color: white;
+        font-weight: 800;
+        line-height: 1;
+        margin: 25px 0;
+        text-align: center;
+      }
+      #banner-pizza{
+        margin-top: 0;
+      }
+      #banner-burger{
+        margin-top: 0;
+      }
+      #banner-chiken{
+        margin-top: 0;
+      }
+      .banner-item h4{
+        text-align: center;
+      }
+      .btn-center{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+      }
+      .food-item {
+        padding: 1em 0;
+        background-color: #f5f1eb;
+    }
+    #ab-right, #ab-left{
+        display: none;
+    }
+    .about-us {
+        padding: 3em 0;
+        margin: 2em 0;
+        background-color: white;
+        position: relative;
+    }
+    .writing-div h3 {
+        font-weight: 900;
+        font-size: 1.5em;
+    }
+    #left-pizza,  #right-pizza{
+        display: none
+    }
+    #vegetable-right{
+        display: none;
+    }
+    #vegetable-left{
+        left: -10%;
+        top: -20%;
+        
+      }
+      .chiken-break{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
+    .dish-style1{
+      width: 100%;
+    }
+
+    .dish-relative2{
+      right: -37px;
+
+    }
+    .dish-relative1 {
+      position: absolute;
+      left: -40px;
+      bottom: -8em;
+
+}
+.cta-1{
+  display: none;
+}
+
+.foods-menu{
+  padding: 0.5em 1.5em;
+  background-color: white;
+}
+ .ui-tabs-nav .ui-tabs-tab{
+  width: 45%;
+}
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+  padding: 0 !important;
+
+}
+
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+  border-right: none !important;
+}
+
+.spl-countdown {
+background: rgba(255, 255, 255, 0.216);
+}
+.countdown div{
+  width: 4rem;
+  height: 5rem;
+  font-size: 25px;
+}
+.countdown div::after{
+  font-size: 12px;
+}
+
+.spl-img img{
+  max-width: 80% !important;
+}
+
+.spl-countdown{
+  margin-top: 0;
+}
+
+.spacial-banner-timer,
+.spacial-banner-timer2{
+  display: none;
+ }
+
+ .our-chefe {
+  padding: 0;
+}
+
+.chefe-info{
+  margin: 120px 0;
+ }
+ .chefe1 {
+  left: 80px;
+ }
+ .icon {
+  left: 34%;
+}
+
+.testimonial-img {
+  margin-top: -10em;
+
+}
+
+.testimonial {
+  background-color: #171717;
+  height: 90vh;
+  width: 100%;
+  margin: 3em 0;
+}
+
+
+.our-link,
+.our-menu,
+.contact-us{
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+
+}
+
+
+.footer-gallery {
+  padding-top: 0;
+}
+
+
+.foot-contact h5{
+  font-size: 9px;
+}
+.foot-contact p{
+  font-size: 12px;
+}
+
+.foot-contact ul li i {
+  font-size: 8px;
+  padding: 7px;
+  border-radius: 30px;
+}
+
+.back-to-top{
+  display: none !important;
+}
+
+
+}
